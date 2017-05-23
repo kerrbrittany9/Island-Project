@@ -1,8 +1,11 @@
 h1{
-  color: coral
+  color: red
 
 }
 body {
-  background-color: #3CB371;
+  background-color: black;
 
+}
+a {
+  color: crimson
 }
